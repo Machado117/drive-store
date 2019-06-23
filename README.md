@@ -1,2 +1,2 @@
 # drive-store
-Encrypt files and store on google drive.
+Encrypt files and store them on google drive.
